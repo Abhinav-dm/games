@@ -1,0 +1,181 @@
+.container-full {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 1.7), rgba(0, 0, 0, 0.3)), url('../assets/images/fighters.png');
+}
+
+.container {}
+
+.container-tabletop {
+    color: white;
+    text-align: center;
+    font-size: 120px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 900;
+    font-family: 'Poppins';
+    -webkit-text-stroke: 1.5px #ff3d45;
+    opacity: 0.75;
+    -webkit-text-fill-color: transparent;
+    -webkit-mask-image: linear-gradient(transparent, #ff3d45, #17181a00 78%, #17181a00);
+}
+
+.container-roleplay {
+    color: white;
+    text-align: center;
+    font-size: 43px;
+    font-weight: 400;
+    line-height: 48px;
+    margin-top: -80px;
+    font-family: 'slug_lion';
+}
+
+.container-span-roleplay {
+    color: red;
+}
+
+.fighter_heading {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 150px;
+}
+
+.cliped-fighter2 {
+    width: 484px;
+    height: 303px;
+    clip-path: polygon(0 0, 84% 0, 100% 16%, 100% 100%, 14% 100%, 0 87%);
+}
+
+.w_fighter_heading{
+    color: #FFF;
+    font-family: 'slug_lion';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%;
+}
+
+.pera_heading {
+    color: #FFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.30);
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 596px;
+}
+.default-padding{
+    padding-top: 52px;
+}
+
+
+
+
+
+
+
+
+
+.container-lorem-reolplay {
+    width: 476px;
+    color: #6D7380;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-style: normal;
+    padding: 40px 0px 0px 79px;
+}
+
+.container-learn {
+    color: #EE1C24;
+    font-family: 'The Slug and Lion';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    width: 85px;
+}
+
+.container-flex {
+    display: flex;
+    padding: 20px 0px 0px 79px;
+}
+
+.container-flex-heros {
+    display: flex;
+    padding: 20px 0px 0px 0px;
+}
+
+.container-cliped-image {
+    width: 600px;
+    height: 370px;
+    clip-path: polygon(0 0, 84% 0, 100% 16%, 100% 100%, 14% 100%, 0 87%);
+}
+
+.container-cliped-fighter1 {
+    width: 534px;
+    height: 338px;
+    clip-path: polygon(0 0, 84% 0, 100% 16%, 100% 100%, 0% 100%, 0 87%);
+}
+
+.container-cliped-padding {
+    padding: 100px 0px 0px 79px;
+}
+
+.container-hero {
+    color: white;
+    font-size: 120px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 900;
+    font-family: 'Poppins';
+    -webkit-text-stroke: 1.5px #ff3d45;
+    opacity: 0.75;
+    -webkit-text-fill-color: transparent;
+    -webkit-mask-image: linear-gradient(transparent, #ff3d45, #17181a00 78%, #17181a00);
+}
+
+.container-roleplay-heros {
+    color: white;
+    font-size: 48px;
+    width: 376px;
+    font-weight: 400;
+    line-height: 48px;
+    margin-top: -70px;
+    font-family: 'slug_lion';
+}
+
+.container-lorem-heros {
+    width: 476px;
+    color: #6D7380;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-style: normal;
+    padding: 40px 0px 0px 0px;
+}
+
+.container-heros-main {
+    padding: 68px 0px 0px 78px;
+}
+
+.container-roleplay-games {
+    color: white;
+    font-size: 48px;
+    width: 307px;
+    font-weight: 400;
+    line-height: 48px;
+    margin-top: -70px;
+    font-family: 'slug_lion';
+}
+
+.container-cliped-fighter2 {
+    width: 600px;
+    height: 370px;
+    clip-path: polygon(0 0, 84% 0, 100% 16%, 100% 100%, 14% 100%, 0 87%);
+}
+
+.container-games-cliped {
+    padding: 68px 0px 0px 0px;
+}

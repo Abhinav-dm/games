@@ -1,24 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
+import Baner from './componets/baner/Baner';
+import Tabletop from './componets/tabletop/Tabletop';
+import Heading from './componets/heading/Heading';
+import RepeatHeading from './componets/repeat-heading/RepeatHeading';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <div className='app-overflow'>
+        <Baner />
+        <Tabletop />
+        <Heading />
+        <RepeatHeading />
+      </div>
+    </>
   );
 }
 
